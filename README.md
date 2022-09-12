@@ -6,7 +6,7 @@
 
 ### [Todo-List | Vanilla - HTML, CSS e JS](https://todo-g.netlify.app)
 
-### [Todo-List | ReactJS](https://todo-local-storage.vercel.app)
+### [Todo-List | ReactJS](https://rtodo-rlist.netlify.app/)
 
 ### [Ateliê Galho Seco](https://galhoseco.netlify.app)
 
